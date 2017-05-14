@@ -1,5 +1,5 @@
-#decode RTP H264
-##How to use this
+#decode RTP H264 live Stream  
+##How to use this  
 * send H264 stream to your computer, for example, port 5006(in my code)  
 * put main.c file in ffmpeg/doc/example, run following command
 
